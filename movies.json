@@ -1,0 +1,36 @@
+{
+    "movie1" : {
+       "title" : "Barbie",
+       "director" : "Greta Gerwig",
+       "genre" : "Comedy/Fantasy",
+       "IMDB": "https://www.imdb.com/title/tt1517268/"
+    },
+
+    "movie2" : {
+        "title" : "The Hunger Games",
+        "director" : "Gary Ross",
+        "genre" : "Sci-fi/Adventure",
+        "IMDB": "https://www.imdb.com/title/tt1392170/"
+     },
+
+     "movie3" : {
+        "title" : "The Hunger Games-Catching Fire",
+        "director" :  "Gary Ross",
+        "genre" :"Sci-fi/Adventure",
+        "IMDB": "https://www.imdb.com/title/tt1951264/"
+     },
+
+     "movie4" : {
+        "title" : "The Hunger Games: Mockingjay - Part 1",
+        "director" :  "Gary Ross",
+        "genre" :"Sci-fi/Adventure",
+        "IMDB":"https://www.imdb.com/title/tt1951266/"
+     },
+     
+     "movie5" : {
+        "title" : "The Hunger Games: Mockingjay - Part 2",
+        "director" :  "Gary Ross",
+        "genre" : "Sci-fi/Adventure",
+        "IMDB": "https://www.imdb.com/title/tt1951266/"
+     }
+}
